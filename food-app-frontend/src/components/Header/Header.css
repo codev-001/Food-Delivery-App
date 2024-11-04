@@ -19,13 +19,14 @@
 }
 
 .header-contents h2 {
-  font-weight: 500;
+  font-weight: 700;
   color: white;
   font-size: max(4.5vw, 22px);
 }
 
 .header-contents p {
   color: white;
+  font-weight: 700;
   font-size: 1;
 }
 
